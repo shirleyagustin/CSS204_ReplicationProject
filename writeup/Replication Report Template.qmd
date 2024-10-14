@@ -1,5 +1,5 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
+title: "Replication of Study "Who's Responsible for the Digital Divide? Public Perceptions and Policy Implications" by Epstein et al. (2011, The Information Society)"
 author: "Shirley Agustin (shagustin@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
@@ -12,8 +12,14 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+In this experiment, we learn that through framing, individuals will place the responsibility for the digital divide onto different institutions. The digital divide is an issue that I have been interested in exploring further, as tackling disparities faced by vulnerable populations is a top priority as I shape my professional goals. This experiment, in particular, aligns with my goals of using communication theories and data science to learn how to effectively advocate for the necessary resources underserved communities need. It helps me understand how individuals perceive which institutions they hold accountable for addressing their needs.
 
+The experiment was conducted through a national omnibus poll. This experiment consisted of 500 interviews via telephone interviewing software. This software randomly assigned the participants to two different framing conditions regarding the definition of the digital divide. Participants would then move on to answering who holds responsibility for the digital divide, presented through standardized response options.
+
+Challenges that came up include the lack of participants in this experiment. The experiment was part of a national omnibus poll, which may have led to a greater response rate, but since this experiment focused only on a single topic, we may not be able to garner a larger participation rate. Furthermore, the experiment was conducted through telephone interviewing software, which may not be provided by the university or may not be available at no cost. This could lead us to deliver the poll in a different format, which may affect the results of the experiment.
+
+[GitHub Repository](https://github.com/shirleyagustin/epstein2011)
+[Original Paper](https://github.com/shirleyagustin/epstein2011/blob/main/original_paper/PublicPerception_Original.pdf)
 
 ## Methods
 
