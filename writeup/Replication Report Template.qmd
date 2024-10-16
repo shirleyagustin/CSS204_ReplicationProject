@@ -1,5 +1,5 @@
 ---
-title: "Replication of Study "Who's Responsible for the Digital Divide? Public Perceptions and Policy Implications" by Epstein et al. (2011, The Information Society)"
+title: "Replication of Study \"Who's Responsible for the Digital Divide? Public Perceptions and Policy Implications\" by Epstein et al. (2011, The Information Society)"
 author: "Shirley Agustin (shagustin@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
@@ -19,6 +19,7 @@ The experiment was conducted through a national omnibus poll. This experiment co
 Challenges that came up include the lack of participants in this experiment. The experiment was part of a national omnibus poll, which may have led to a greater response rate, but since this experiment focused only on a single topic, we may not be able to garner a larger participation rate. Furthermore, the experiment was conducted through telephone interviewing software, which may not be provided by the university or may not be available at no cost. This could lead us to deliver the poll in a different format, which may affect the results of the experiment.
 
 [GitHub Repository](https://github.com/shirleyagustin/epstein2011)
+
 [Original Paper](https://github.com/shirleyagustin/epstein2011/blob/main/original_paper/PublicPerception_Original.pdf)
 
 ## Methods
