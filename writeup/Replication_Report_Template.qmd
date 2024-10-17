@@ -10,7 +10,7 @@ format:
 
 <!-- Replication reports should all use this template to standardize reporting across projects.  These reports will be public supplementary materials that accompany the summary report(s) of the aggregate results. -->
 
-## Introduction
+## Introduction for Replication Report
 
 In this experiment, we learn that through framing, individuals will place the responsibility for the digital divide onto different institutions. The digital divide is an issue that I have been interested in exploring further, as tackling disparities faced by vulnerable populations is a top priority as I shape my professional goals. This experiment, in particular, aligns with my goals of using communication theories and data science to learn how to effectively advocate for the necessary resources underserved communities need. It helps me understand how individuals perceive which institutions they hold accountable for addressing their needs.
 
